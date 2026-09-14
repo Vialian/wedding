@@ -18,8 +18,8 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "Søren Andersen",
-    nameEn: "Søren Andersen",
+    name: "Søren",
+    nameEn: "Søren",
     father: "Frank",
     mother: "Liselotte",
     fatherDeceased: false,
@@ -28,7 +28,7 @@ const CONFIG = {
 
   bride: {
     name: "김서영",
-    nameEn: "Seoyoung Kim",
+    nameEn: "Seoyoung",
     father: "김형식",
     mother: "방종숙",
     fatherDeceased: false,
@@ -39,12 +39,10 @@ const CONFIG = {
     date: "2027-03-27",
     time: "17:00",
     venue: "원인재 웨딩",
-    hall: "그랜드홀 5층",
-    address: "서울특별시 강남구 테헤란로 123",
-    tel: "02-1234-5678",
+    address: "인천광역시 연수구 경원대로 322 (연수동)",
     mapLinks: {
-      kakao: "https://map.kakao.com/",
-      naver: "https://map.naver.com/"
+      kakao: "https://kko.to/6FTOPLjjCm",
+      naver: "https://naver.me/5LHHxqFN"
     }
   },
 
