@@ -18,27 +18,27 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "신랑",
-    nameEn: "Groom",
-    father: "여기서이렇게이름을바꾸시면됩니다",
-    mother: "어머니",
+    name: "Søren Andersen",
+    nameEn: "Søren Andersen",
+    father: "Frank",
+    mother: "Liselotte",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
-    name: "신부",
-    nameEn: "Bride",
-    father: "아버지",
-    mother: "어머니",
+    name: "김서영",
+    nameEn: "Seoyoung Kim",
+    father: "김형식",
+    mother: "방종숙",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   wedding: {
-    date: "2026-05-09",
-    time: "13:00",
-    venue: "예식장 이름",
+    date: "2027-03-27",
+    time: "17:00",
+    venue: "원인재 웨딩",
     hall: "그랜드홀 5층",
     address: "서울특별시 강남구 테헤란로 123",
     tel: "02-1234-5678",
