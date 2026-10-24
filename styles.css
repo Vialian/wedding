@@ -1531,13 +1531,13 @@ a {
 }
 
 .photo-upload::before {
-  content: "✳";
+
   top: 2rem;
   left: 8%;
 }
 
 .photo-upload::after {
-  content: "✳";
+
   right: 8%;
   bottom: 2rem;
 }
